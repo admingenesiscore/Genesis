@@ -30,6 +30,10 @@ Official Golang execution layer implementation of the Genesis protocol.
 * Website - https://genesiscore.com
 * Explorer - https://explorer.genesiscore.com
 
+## How to install and run a node
+* [Linux](installation-linux.md)
+* [MacOS](installation-macos.md)
+* [Windows](installation-windows.md)
 
 ## Building from source Ubuntu 20.04/22.04
 
@@ -81,7 +85,7 @@ make all
 ./build/bin/agora init genesis-main.json
 ```
 ```
-./build/bin agora
+./build/bin agora --bootnodes "enode://9a672272c894f35db7636ea17ec9bcb438c9b242958d63548d679084936c0d2071c9534a0af45aa4c4f5e4607c8eaaa590b46441288af2d615bce7795a15c36e@64.176.172.185:30303,enode://c0303e3ecd64bfed38aa9687374969e18f96dfb7736ec00c8cdd3a40ab383cc99c442f0360e306ba2d34c9e8af0bb3fd0a411a2eb30ddedf36d6801289edfa24@64.176.163.23:30303"
 ```
 
 ## Executables
