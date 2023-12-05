@@ -1,8 +1,8 @@
 ## How to install and run a Genesis node
 Below are guides on how to install and run a Genesis node. 
-* [Linux](docs/installation-linux.md)
-* [MacOS](docs/installation-macos.md)
-* [Windows](docs/installation-windows.md)
+* [Linux](installation-linux.md)
+* [MacOS](installation-macos.md)
+* [Windows](installation-windows.md)
 
 ## How to run run a signer
 **REQUIREMENTS**
