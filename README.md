@@ -31,9 +31,9 @@ Official Golang execution layer implementation of the Genesis protocol.
 * Explorer - https://explorer.genesiscore.com
 
 ## How to install and run a node
-* [Linux](installation-linux.md)
-* [MacOS](installation-macos.md)
-* [Windows](installation-windows.md)
+* [Linux](docs/installation-linux.md)
+* [MacOS](docs/installation-macos.md)
+* [Windows](docs/installation-windows.md)
 
 ## Building from source Ubuntu 20.04/22.04
 
